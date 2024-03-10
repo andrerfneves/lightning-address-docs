@@ -1,14 +1,35 @@
-# Mintlify Starter Kit
+# Lightning Address Docs
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+<p align="center">
+  <a href="https://zebedee.io">
+    <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
+    <h3 align="center">ZBD</h3>
+  </a>
+</p>
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+<div align="center">
 
-### Development
+[![bitcoin ln payments](https://img.shields.io/badge/Bitcoin%20Lightning-Payments-blue?style=for-the-badge&logo=bitcoin)](https://lightning.io)
+
+</div>
+
+<p align="center">
+  Lightning Address Docs
+</p>
+
+<p align="center">
+  <a href="https://docs.zebedee.io"><strong>Documentation</strong></a> ·
+  <a href="https://dashboard.zebedee.io"><strong>Developer Dashboard</strong></a> ·
+  <a href="https://docs.zebedee.io/api/intro"><strong>API Reference</strong></a> ·
+  <a href="https://status.zebedee.io"><strong>API Status</strong></a>
+</p>
+<br/>
+
+## Documentation
+
+For details on how to build upon the Lightning Address specification, check the [documentation](https://docs.lightningaddress.com).
+
+## Development
 
 Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
 
@@ -22,11 +43,10 @@ Run the following command at the root of your documentation (where mint.json is)
 mintlify dev
 ```
 
-### Publishing Changes
+-----------
 
-Install our Github App to autopropagate changes from youre repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
+This repository is supported and maintained by [ZBD](https://zebedee.io).
 
-#### Troubleshooting
+[ZBD](https://zebedee.io) is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
 
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `mint.json`
+We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZBD has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
