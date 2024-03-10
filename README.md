@@ -1,15 +1,13 @@
-# Lightning Address Docs
-
 <p align="center">
-  <a href="https://zebedee.io">
+  <a href="https://lightningaddress.com">
     <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
-    <h3 align="center">ZBD</h3>
+    <h3 align="center">Lightning Address Docs</h3>
   </a>
 </p>
 
 <div align="center">
 
-[![bitcoin ln payments](https://img.shields.io/badge/Bitcoin%20Lightning-Payments-blue?style=for-the-badge&logo=bitcoin)](https://lightning.io)
+[![bitcoin lightning address](https://img.shields.io/badge/Bitcoin-Lightning%20Address-blue?style=for-the-badge&logo=bitcoin)](https://lightningaddress.com)
 
 </div>
 
@@ -18,16 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.zebedee.io"><strong>Documentation</strong></a> ·
-  <a href="https://dashboard.zebedee.io"><strong>Developer Dashboard</strong></a> ·
-  <a href="https://docs.zebedee.io/api/intro"><strong>API Reference</strong></a> ·
-  <a href="https://status.zebedee.io"><strong>API Status</strong></a>
+  <a href="https://lightningaddress.com"><strong>Home</strong></a> ·
+  <a href="https://docs.lightningaddress.com"><strong>Documentation</strong></a> ·
+  <a href="https://docs.lightningaddress.com"><strong>SDKs</strong></a> ·
+  <a href="https://docs.lightningaddress.com"><strong>API Status</strong></a>
 </p>
 <br/>
-
-## Documentation
-
-For details on how to build upon the Lightning Address specification, check the [documentation](https://docs.lightningaddress.com).
 
 ## Development
 
@@ -45,8 +39,19 @@ mintlify dev
 
 -----------
 
+### Supported by ZBD
+
+<p align="left">
+  <a href="https://zebedee.io">
+    <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
+    <h2 align="left">ZBD</h2>
+  </a>
+</p>
+
 This repository is supported and maintained by [ZBD](https://zebedee.io).
 
 [ZBD](https://zebedee.io) is the payments platform for modern developers, providing the speed and reliability innovators need to create monetized and meaningfully-engaging user experiences.
 
 We enable businesses and consumers to quickly introduce instantaneous Bitcoin payments to the fabric of their applications, games, and platforms. ZBD has the most comprehensive set of Bitcoin Lightning API capabilities and is industry-leader in supporting companies in the fields of gaming, social, adtech and fintech.
+
+[Build with ZBD!](https://dashboard.zebedee.io/signup)
