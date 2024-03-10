@@ -19,7 +19,7 @@
   <a href="https://lightningaddress.com"><strong>Home</strong></a> ·
   <a href="https://docs.lightningaddress.com"><strong>Documentation</strong></a> ·
   <a href="https://docs.lightningaddress.com"><strong>SDKs</strong></a> ·
-  <a href="https://docs.lightningaddress.com"><strong>API Status</strong></a>
+  <a href="https://docs.lightningaddress.com"><strong>Another</strong></a>
 </p>
 <br/>
 
@@ -37,6 +37,20 @@ Run the following command at the root of your documentation (where mint.json is)
 mintlify dev
 ```
 
+## Deployment
+
+Deployment is handled by Mintlify cloud.
+
+```
+
+## Contributing
+
+If you would like to contribute to the documentation, please fork the repository and submit a pull request. We would love to hear from you!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 -----------
 
 ### Supported by ZBD
@@ -44,7 +58,6 @@ mintlify dev
 <p align="left">
   <a href="https://zebedee.io">
     <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
-    <h2 align="left">ZBD</h2>
   </a>
 </p>
 
