@@ -41,8 +41,6 @@ mintlify dev
 
 Deployment is handled by Mintlify cloud.
 
-```
-
 ## Contributing
 
 If you would like to contribute to the documentation, please fork the repository and submit a pull request. We would love to hear from you!
