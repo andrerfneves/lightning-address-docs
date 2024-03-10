@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  Lightning Address Docs
+  Documentation website with implementation details, examples, source codes, and more.
 </p>
 
 <p align="center">
