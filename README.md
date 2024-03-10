@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://lightningaddress.com">
-    <img src="https://avatars.githubusercontent.com/u/54384134?s=200&v=4" height="96">
+    <img src="https://i.imgur.com/0m2Dk53.png" height="96">
     <h3 align="center">Lightning Address Docs</h3>
   </a>
 </p>
